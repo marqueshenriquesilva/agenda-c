@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#define TF 5
+#define TF 10
 
 struct tpdata{
 	int ano;
